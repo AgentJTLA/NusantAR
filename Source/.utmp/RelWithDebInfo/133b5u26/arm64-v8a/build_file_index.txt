@@ -1,0 +1,3 @@
+D:\BINUS\Sem_4\MulMed\NusantAR_Malin_Kundang\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\BINUS\Sem_4\MulMed\NusantAR_Malin_Kundang\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt
+D:\BINUS\Sem_4\MulMed\NusantAR_Malin_Kundang\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
